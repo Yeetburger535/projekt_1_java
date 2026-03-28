@@ -1,3 +1,4 @@
+//Martyna Stencel 4AZI
 import javax.swing.JOptionPane;
 
 public class Projekt1_1 {

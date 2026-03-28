@@ -1,3 +1,4 @@
+//Martyna Stencel 4AZI
 import java.util.Scanner;
 
 public class Projekt1_4{
